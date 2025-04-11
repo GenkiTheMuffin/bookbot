@@ -21,6 +21,3 @@ def split_to_list(char_count):
         dict_list.append(temp)
     dict_list.sort(reverse=True, key=sort_on)
     return dict_list
-
-
-len(5)
